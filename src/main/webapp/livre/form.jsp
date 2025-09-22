@@ -12,6 +12,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     </head>
     <body>
+    	<a href="http://localhost:8080/jakarta-tomcat-app/"><button type="button" class="btn btn-sm btn-primary">Retour à l'accueil</button></a><br><br>
         <form method="post" action="${pageContext.request.contextPath}/livre">
             <label>Titre</label>
             <input type="text" name="titre">

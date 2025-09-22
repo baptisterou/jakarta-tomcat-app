@@ -23,7 +23,7 @@
     </form>
 </div>
 
-<h2>Liste des livres</h2>
+<%-- <h2>Liste des livres</h2>
 <table class="table table-striped">
     <thead>
         <tr>
@@ -49,6 +49,6 @@
         </tr>
     </c:forEach>
     </tbody>
-</table>
+</table> --%>
 </body>
 </html>
