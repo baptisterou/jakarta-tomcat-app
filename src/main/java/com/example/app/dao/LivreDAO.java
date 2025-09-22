@@ -8,7 +8,7 @@ import jakarta.persistence.Persistence;
 import java.util.List;
 
 // DAO = couche d'accès à la base de données
-public class LivreDAO {
+public class  LivreDAO {
     private static final EntityManagerFactory emf = Persistence.createEntityManagerFactory("myPU");
 
     public void save(Livre livre) {
