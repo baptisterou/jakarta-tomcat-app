@@ -27,32 +27,5 @@
     </div>
 </div>
 
-<%--<h2>Liste des livres</h2>--%>
-<%--<table class="table table-striped">--%>
-<%--    <thead>--%>
-<%--        <tr>--%>
-<%--            <th>Auteur</th>--%>
-<%--            <th>Titre</th>--%>
-<%--        </tr>--%>
-<%--    </thead>--%>
-<%--    <tbody>--%>
-<%--    <c:forEach var="livre" items="${livres}">--%>
-<%--        <tr>--%>
-<%--            <td>--%>
-<%--                    ${livre}--%>
-<%--            </td>--%>
-<%--            <td>--%>
-
-<%--            </td>--%>
-<%--            <td>--%>
-<%--                <button>Editer</button>--%>
-<%--            </td>--%>
-<%--            <td>--%>
-<%--                <button>Supprimer</button>--%>
-<%--            </td>--%>
-<%--        </tr>--%>
-<%--    </c:forEach>--%>
-<%--    </tbody>--%>
-</table>
 </body>
 </html>

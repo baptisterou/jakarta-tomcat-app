@@ -14,6 +14,7 @@
 </head>
     <body class="container py-4">
         <h1 class="mb-4">Liste des auteurs</h1>
+        <a href="http://localhost:8080/jakarta-tomcat-app/"><button type="button" class="btn btn-sm btn-primary">Retour à l'accueil</button></a>
         <div class="table-responsive">
             <table class="table table-striped align-middle">
                 <thead>
